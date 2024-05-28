@@ -15,3 +15,10 @@ This project aims to predict customer churn in the telecommunications industry u
 
 🔴 Solution Overview
 ![Telco5](https://github.com/nikhilg1210/Telecom-Churn-Prediction/assets/145900431/622fcdb1-be43-44dc-a26d-214cd4845843)
+
+In this repository, we have conducted comprehensive Exploratory Data Analysis (EDA) to identify the characteristics of customers who are more likely to churn. Utilizing these insights, we developed and deployed a predictive mode
+
+🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
+🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
+🟢 For Model Deployment, please refer to app.py
+🔵 Creating the flask API
