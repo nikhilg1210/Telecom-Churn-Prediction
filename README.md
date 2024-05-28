@@ -19,6 +19,9 @@ This project aims to predict customer churn in the telecommunications industry u
 In this repository, I have conducted comprehensive Exploratory Data Analysis (EDA) to identify the characteristics of customers who are more likely to churn. Utilizing these insights, we developed and deployed a predictive mode
 
 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
+
 🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
+
 🟢 For Model Deployment, please refer to app.py
+
 🔵 Creating the flask API
